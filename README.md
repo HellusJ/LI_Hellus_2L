@@ -1,3 +1,3 @@
--Snažil jsem se lorem ipsum udělat podobný našemu českému jazyku
+-Snažil jsem se lorem ipsum udělat podobný našemu českému jazyku akoráz bez háčků a čárek
 -Na začátku se vás program zeptá kolik řádků chcete vygenerovat 
 -Po čtřech řádcich se udělá mezera aby bylo vidět kde začíná nový odstavec
