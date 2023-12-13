@@ -6,6 +6,7 @@
   <p>-založil jsem 4 listy (souhlasky, samohlasky, pismena, vsechno)</p>
   <p>-funguje to na principu přičítání proměnných k další proměnné... dokud to nesloží větu</p>
   <p>-při spuštění program vybere náhodné písmeno z listu pismena (pokud je písmeno v listu samohlasky přiřadí se k němu souhláska a naopak)</p>
+  <p>-bohužel jsem ani za pomoci umělé inteligence nedokázal přijít na to jak to udělat aby se to rýmovalo</p>
   
 <h2>Output</h2>
 
