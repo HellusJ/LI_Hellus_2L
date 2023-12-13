@@ -5,5 +5,5 @@
   <p>-Na začátku se vás program zeptá kolik řádků chcete vygenerovat</p>
   <p>-Po čtřech řádcich se udělá mezera aby bylo vidět kde začíná nový odstavec</p>
   <p> </p>
-
+  <p>-Po čtřech řádcich se udělá mezera aby bylo vidět kde začíná nový odstavec</p>
 
